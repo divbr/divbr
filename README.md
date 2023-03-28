@@ -9,7 +9,9 @@
 
 
 <div align="center">
-<br><p align="centre"><b>Visiting my profile</b></p>  
+<br><p align="centre"><b>Bem vindos!</b></p>  
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{divbr}/count.svg" /></p> 
 <br>
 </div>
+
+ 
